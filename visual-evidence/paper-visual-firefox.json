@@ -1,0 +1,642 @@
+[
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "before",
+    "name": "Primary",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-1280-before-primary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "before",
+    "name": "Secondary",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-1280-before-secondary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "before",
+    "name": "Tertiary",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-1280-before-tertiary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "before",
+    "name": "Custom color #1",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-1280-before-custom.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "after",
+    "name": "Primary",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-1280-after-primary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "after",
+    "name": "Secondary",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-1280-after-secondary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "after",
+    "name": "Tertiary",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-1280-after-tertiary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 1280,
+    "phase": "after",
+    "name": "Custom color #1",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-1280-after-custom.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "before",
+    "name": "Primary",
+    "overflow": "hidden",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-390-before-primary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "before",
+    "name": "Secondary",
+    "overflow": "hidden",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-390-before-secondary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "before",
+    "name": "Tertiary",
+    "overflow": "hidden",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-390-before-tertiary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "before",
+    "name": "Custom color #1",
+    "overflow": "hidden",
+    "input": {
+      "x": 252,
+      "y": 494.8500061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v5-390-before-custom.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "after",
+    "name": "Primary",
+    "overflow": "visible",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-390-after-primary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "after",
+    "name": "Secondary",
+    "overflow": "visible",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-390-after-secondary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "after",
+    "name": "Tertiary",
+    "overflow": "visible",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-390-after-tertiary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "5",
+    "width": 390,
+    "phase": "after",
+    "name": "Custom color #1",
+    "overflow": "visible",
+    "input": {
+      "x": 252,
+      "y": 494.8500061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v5-390-after-custom.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "before",
+    "name": "Primary",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-1280-before-primary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "before",
+    "name": "Secondary",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-1280-before-secondary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "before",
+    "name": "Tertiary",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-1280-before-tertiary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "before",
+    "name": "Custom color #1",
+    "overflow": "hidden",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-1280-before-custom.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "after",
+    "name": "Primary",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-1280-after-primary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "after",
+    "name": "Secondary",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-1280-after-secondary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "after",
+    "name": "Tertiary",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-1280-after-tertiary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 1280,
+    "phase": "after",
+    "name": "Custom color #1",
+    "overflow": "visible",
+    "input": {
+      "x": 766,
+      "y": 494.8999938964844,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-1280-after-custom.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "before",
+    "name": "Primary",
+    "overflow": "hidden",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-390-before-primary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "before",
+    "name": "Secondary",
+    "overflow": "hidden",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-390-before-secondary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "before",
+    "name": "Tertiary",
+    "overflow": "hidden",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-390-before-tertiary.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "before",
+    "name": "Custom color #1",
+    "overflow": "hidden",
+    "input": {
+      "x": 252,
+      "y": 494.8500061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": false
+    },
+    "file": "paper-firefox-v6-390-before-custom.png",
+    "ordinaryTablesUnchanged": false,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "after",
+    "name": "Primary",
+    "overflow": "visible",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-390-after-primary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "after",
+    "name": "Secondary",
+    "overflow": "visible",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-390-after-secondary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "after",
+    "name": "Tertiary",
+    "overflow": "visible",
+    "input": {
+      "x": 200,
+      "y": 494.1000061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-390-after-tertiary.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  },
+  {
+    "engine": "firefox",
+    "browser": "151.0",
+    "version": "6",
+    "width": 390,
+    "phase": "after",
+    "name": "Custom color #1",
+    "overflow": "visible",
+    "input": {
+      "x": 252,
+      "y": 494.8500061035156,
+      "width": 150,
+      "height": 22,
+      "visibleAtCenter": true
+    },
+    "file": "paper-firefox-v6-390-after-custom.png",
+    "ordinaryTablesUnchanged": true,
+    "hexEdit": true,
+    "swatch": true,
+    "dismiss": true
+  }
+]
